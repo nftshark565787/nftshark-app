@@ -5,10 +5,10 @@
   <br />
   <img src="https://i.postimg.cc/2Sw0Bq1C/eth-bot-logo-2.png" alt="Logo" width="800">
 
-  <h3 align="center">Ethereum-NFT-Shot-App</h3>
+  <h3 align="center">Ethereum-NFT-Shark-App</h3>
 
   <p align="center">
-    NFT shot app 
+    NFT shark app 
   </p>
   <br />
   <br />
