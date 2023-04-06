@@ -46,7 +46,6 @@
       <a href="#notify-method">Notify Method</a>
       <ul>
         <li><a href="#twitter-1">Twitter</a></li>
-        <li><a href="#discord-1">Discord</a></li>
       </ul>
     </li>
     <li><a href="#mindmap">Mindmap</a></li>
@@ -208,7 +207,6 @@ npm run fix
 
 -   <a href="#twitter-1">Twitter</a>
 
--   <a href="#discord-1">Discord</a>
 
 Notification is optional. You can turn it on in the `./.env` file by setting the `TWITTER_ENABLED` or `DISCORD_ENABLED` value to `1`.
 
